@@ -40,7 +40,7 @@ var ExplorationEditorPage =
 var Constants = require('../protractor_utils/ProtractorConstants.js');
 var SkillEditorPage = require('../protractor_utils/SkillEditorPage.js');
 
-describe('Learner dashboard functionality', function() { 
+describe('Learner dashboard functionality', function() {
   var explorationPlayerPage = null;
   var topicsAndSkillsDashboardPage = null;
   var adminPage = null;
